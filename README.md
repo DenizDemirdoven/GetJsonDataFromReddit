@@ -33,6 +33,7 @@ Main features of the application:
 - Json data is specialized as below.
 
 Example:
+```json
 {
 "subreddit": "rome",
     "children": [
@@ -44,6 +45,7 @@ Example:
     ]
      "numberOfImages": 1
 }
+```
 
 ### API Endpoints
 | API            | HTTP Verbs | Endpoints        | Action                            |

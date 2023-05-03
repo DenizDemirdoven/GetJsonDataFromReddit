@@ -51,7 +51,7 @@ Example:
 | API            | HTTP Verbs | Endpoints        | Action                            |
 | -------------- | ---------- | ---------------- | --------------------------------- |
 | UserLogin      | POST       | /account/login   | To login an existing user account |
-| RedditJsonGet  | GET        | /reddit/keyword  | To get data from a public service |
+| RedditJsonGet  | GET        | /reddit/:keyword  | To get data from a public service |
 
 ### 3rd Party Libraries
 
